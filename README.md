@@ -7,7 +7,7 @@
 ## **Documentação Oficial do GitHub**
 
 - **Guia de Estudo do Exame GitHub Foundations:**
-    - [https://assets.ctfassets.net/wfutmusr1t3h/1kmMx7AwI4qH8yIZgOmQlP/79e6ff1dfdee589d84a24dd763b1eef7/github-foundations-exam-study-guide__1_.pdf]([https://learn.microsoft.com/pt-br/credentials/certifications/resources/study-guides/az-305](https://assets.ctfassets.net/wfutmusr1t3h/1kmMx7AwI4qH8yIZgOmQlP/79e6ff1dfdee589d84a24dd763b1eef7/github-foundations-exam-study-guide__1_.pdf))
+    - [https://assets.ctfassets.net/wfutmusr1t3h/1kmMx7AwI4qH8yIZgOmQlP/79e6ff1dfdee589d84a24dd763b1eef7/github-foundations-exam-study-guide__1_.pdf](https://assets.ctfassets.net/wfutmusr1t3h/1kmMx7AwI4qH8yIZgOmQlP/79e6ff1dfdee589d84a24dd763b1eef7/github-foundations-exam-study-guide__1_.pdf)
 - **Trilha Completa do Learn do GitHub Foundations:**
     - [https://learn.microsoft.com/en-us/collections/o1njfe825p602p](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
 - **GitHub Docs:**
