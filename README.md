@@ -1,30 +1,26 @@
-# Certificação GitHub Foundations
+# Certificação MongoDB Certified Developer Associate
 
-`Material para o Exame: GitHub Foundations`
+`Material para o Exame: MongoDB Certified Developer Associate`
 
 ---
 
-## **Documentação Oficial do GitHub**
+## **Documentação Oficial do MongoDB Certified Developer Associate**
 
 - **Guia de Estudo do Exame GitHub Foundations:**
-    - [https://assets.ctfassets.net/wfutmusr1t3h/1kmMx7AwI4qH8yIZgOmQlP/79e6ff1dfdee589d84a24dd763b1eef7/github-foundations-exam-study-guide__1_.pdf](https://assets.ctfassets.net/wfutmusr1t3h/1kmMx7AwI4qH8yIZgOmQlP/79e6ff1dfdee589d84a24dd763b1eef7/github-foundations-exam-study-guide__1_.pdf)
-- **Trilha Completa do Learn do GitHub Foundations:**
-    - [https://learn.microsoft.com/en-us/collections/o1njfe825p602p](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
-- **GitHub Docs:**
-    - [https://docs.github.com/en](https://docs.github.com/en)
-- **Como Obter a Certificação do GitHub Foundations:**
-    - [https://examregistration.github.com/certification/GHF](https://examregistration.github.com/certification/GHF)
+    - [https://learn.mongodb.com/courses/mongodb-associate-developer-exam-study-guide](https://learn.mongodb.com/courses/mongodb-associate-developer-exam-study-guide)
+- **Trilha Completa do Learn do MongoDB Certified Developer Associate:**
+    - [https://learn.mongodb.com/pages/mongodb-developer-learning-paths](https://learn.mongodb.com/pages/mongodb-developer-learning-paths)
+- **Como Obter a Certificação do MongoDB Certified Developer Associate:**
+    - [https://learn.mongodb.com/pages/mongodb-associate-developer-exam](https://learn.mongodb.com/pages/mongodb-associate-developer-exam)
 
 ## **Curso em Vídeo**
 
 ### Udemy
 
-- **Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)**
-    - [https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages](https://www.udemy.com/course/git-e-github-do-basico-ao-avancado-c-gist-e-github-pages)
+- **MongoDB do básico ao avançado (c/ Mongoose e projetos)**
+    - [https://www.udemy.com/course/mongodb-do-basico-ao-avancado-c-mongoose-e-projetos](https://www.udemy.com/course/mongodb-do-basico-ao-avancado-c-mongoose-e-projetos)
 
 ## **Simulados para o Exame**
 
-- **Certified:**
-    - [https://ghcertified.com/practice_tests/foundations](https://ghcertified.com/practice_tests/foundations)
-- **[NEW] GitHub Foundations Certification - Practice Exam 2024]:**
-    - [https://www.udemy.com/course/github-foundations/](https://www.udemy.com/course/github-foundations/)
+- **Perguntas práticas do exame do desenvolvedor:**
+    - [https://learn.mongodb.com/pages/mongodb-developer-practice-questions](https://learn.mongodb.com/pages/mongodb-developer-practice-questions)
