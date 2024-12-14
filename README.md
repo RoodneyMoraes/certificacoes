@@ -6,7 +6,7 @@
 
 ## **Documentação Oficial do MongoDB Certified Developer Associate**
 
-- **Guia de Estudo do Exame GitHub Foundations:**
+- **Guia de Estudo do Exame MongoDB Certified Developer Associate:**
     - [https://learn.mongodb.com/courses/mongodb-associate-developer-exam-study-guide](https://learn.mongodb.com/courses/mongodb-associate-developer-exam-study-guide)
 - **Trilha Completa do Learn do MongoDB Certified Developer Associate:**
     - [https://learn.mongodb.com/pages/mongodb-developer-learning-paths](https://learn.mongodb.com/pages/mongodb-developer-learning-paths)
